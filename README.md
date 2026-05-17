@@ -1,9 +1,11 @@
 ## 📝 Geliştirici Notu & Açık Kaynak Daveti
-> **Selamlar!** Bu proje benim **ilk açık kaynak yazılım geliştirme projemdir.** > Mimariyi kurarken ve kodlarken gözümden kaçan hatalar, eksiklikler veya daha optimize edilebilecek alanlar olabilir. 
-> Kodlar tamamen **açık kaynaklı ve özgürdür.** Projeyi geliştirmek, hataları düzeltmek, kendi ihtiyaçlarınıza göre eğip bükmek veya 
-> arayüze yeni özellikler eklemek konusunda **tamamen özgürsünüz.**
+> **Selamlar!** Bu proje benim **ilk açık kaynak geliştirme projemdir.** >
+Bu proje, asıl mesleği profesyonel yazılım geliştiricilik/mühendislik olan değerli üstadların ve arkadaşların affına sığınarak tamamen deneme, pratik yapma ve günlük işleri kolaylaştırma amacıyla geliştirilmiştir. 
 > 
-> Eğer kodda bir hata bulursanız ya da "şurası şöyle yapılsa daha jilet gibi olurdu" dediğiniz bir yer varsa, projeyi kurcalamaktan lütfen çekinmeyin. 🚀
+> Projenin arkasında devasa bir C# (.NET), Python veya C++ mimarisi **yoktur.** Bu araç, doğası gereği aslında bir script dili olan **PowerShell** mimarisi ve temel WinForms kütüphanesi kullanılarak en basit ve yalın yapıda ayağa kaldırılmıştır. Dolayısıyla kod organizasyonu, performans optimizasyonları veya arayüz tasarımı açısından profesyonel yazılım standartlarına göre eksikleri, kusurları veya "daha jilet gibi yapılabilir" denilecek yüzlerce noktası olabilir. Haddimi bilerek, bunun ticari ya da kusursuz bir yazılım iddiası olmadığını en baştan belirtmek isterim.
+>
+> > Kodlar tamamen **açık kaynaklı ve özgürdür.** Projeyi geliştirmek, hataları düzeltmek, kendi ihtiyaçlarınıza göre eğip bükmek veya 
+> arayüze yeni özellikler eklemek konusunda **tamamen özgürsünüz.**
 
 # 🎬 🖼️ Asos Converter V2.0
 
