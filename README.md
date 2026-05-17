@@ -1,4 +1,4 @@
-# 🎬 🖼️ Asos Converter V2.0 - Master Suite
+# 🎬 🖼️ Asos Converter V2.0
 
 Asos Converter, bilgisayarınızdaki video, ses ve fotoğraf dosyalarını toplu olarak işlemek, boyutlandırmak ve formatlarını değiştirmek amacıyla PowerShell GUI mimarisiyle geliştirilmiş gelişmiş bir açık kaynak stüdyo aracıdır.
 
