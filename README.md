@@ -1,3 +1,10 @@
+## 📝 Geliştirici Notu & Açık Kaynak Daveti
+> **Selamlar!** Bu proje benim **ilk açık kaynak yazılım geliştirme projemdir.** > Mimariyi kurarken ve kodlarken gözümden kaçan hatalar, eksiklikler veya daha optimize edilebilecek alanlar olabilir. 
+> Kodlar tamamen **açık kaynaklı ve özgürdür.** Projeyi geliştirmek, hataları düzeltmek, kendi ihtiyaçlarınıza göre eğip bükmek veya 
+> arayüze yeni özellikler eklemek konusunda **tamamen özgürsünüz.**
+> 
+> Eğer kodda bir hata bulursanız ya da "şurası şöyle yapılsa daha jilet gibi olurdu" dediğiniz bir yer varsa, projeyi kurcalamaktan lütfen çekinmeyin. 🚀
+
 # 🎬 🖼️ Asos Converter V2.0
 
 Asos Converter, bilgisayarınızdaki video, ses ve fotoğraf dosyalarını toplu olarak işlemek, boyutlandırmak ve formatlarını değiştirmek amacıyla PowerShell GUI mimarisiyle geliştirilmiş gelişmiş bir açık kaynak stüdyo aracıdır.
